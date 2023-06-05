@@ -1,0 +1,26 @@
+.mother{
+    background-color: blue;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    /* flex-direction: column-reverse; */
+    justify-content: space-evenly;
+}
+.children1{
+    background-color: darkred;
+    height: 100px;
+    width: 100px;
+    color: white;
+}
+.children2{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    color: white;
+}
+.children3{
+    background-color: rgb(55, 12, 12);
+    height: 100px;
+    width: 100px;
+    color: white;
+}
